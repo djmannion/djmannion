@@ -11,10 +11,11 @@ Recently, I have been particularly enjoying using [`xarray`](https://docs.xarray
 I am also a fan of [`veusz`](https://veusz.github.io/) for creating figures, [`pymc`](https://docs.pymc.io/) for Bayesian analyses, and [Code Ocean](https://codeocean.com) for producing reproducible analysis workflows.
 I am a long-time Linux user and like using simple interfaces.
 
-Personally, I enjoy running and usually get out for a run a few times a week.
+Personally, I enjoy [running](https://en-gb.smashrun.com/damienmannion) and usually get out for a run a few times a week.
 I've run a few marathons in the past (slowly) but I'm not currently training for anything in particular.
 
 I occasionally write posts on various topics:
+* [Fitting models with circular data in PyMC](https://www.djmannion.net/circular_bayes/)
 * [Using containers for reproducible and collaborative computation](https://www.djmannion.net/containers/)
 * [An interactive image Fourier analysis website](https://www.djmannion.net/img_freq_web_post/)
 * [A web version of an interactive visual neuron simulator](https://www.djmannion.net/neural_sim/)
