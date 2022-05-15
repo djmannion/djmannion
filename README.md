@@ -12,9 +12,10 @@ I am also a fan of [`veusz`](https://veusz.github.io/) for creating figures, [`p
 I am a long-time Linux user and like using simple interfaces.
 
 Personally, I enjoy [running](https://en-gb.smashrun.com/damienmannion) and usually get out for a run a few times a week.
-I've run a few marathons in the past (slowly) but I'm not currently training for anything in particular.
+I&rsquo;ve run a few marathons in the past&nbsp;(slowly) but I&rsquo;m not currently training for anything in particular&mdash;mostly trying to improve my [parkrun](https://www.parkrun.com/)&nbsp;(5 km) [times](https://www.parkrun.com.au/results/athleteresultshistory/?athleteNumber=4072605).
 
 I occasionally write posts on various topics:
+* [Presenting images on the web with a higher apparent bit-depth](https://www.djmannion.net/bit_depth)
 * [Fitting models with circular data in PyMC](https://www.djmannion.net/circular_bayes/)
 * [Using containers for reproducible and collaborative computation](https://www.djmannion.net/containers/)
 * [An interactive image Fourier analysis website](https://www.djmannion.net/img_freq_web_post/)
