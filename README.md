@@ -15,6 +15,8 @@ Personally, I enjoy [running](https://en-gb.smashrun.com/damienmannion) and usua
 I&rsquo;ve run a few marathons in the past&nbsp;(slowly) but I&rsquo;m not currently training for anything in particular&mdash;mostly trying to improve my [parkrun](https://www.parkrun.com/)&nbsp;(5 km) [times](https://www.parkrun.com.au/results/athleteresultshistory/?athleteNumber=4072605).
 
 I occasionally write posts on various topics:
+* [A Bayesian approach to perceptual difference scaling](https://www.djmannion.net/diff_scaling)
+* [Benefits of storing and accessing research data in zip files](https://www.djmannion.net/data_zip)
 * [Reproducing intention in research programming](https://www.djmannion.net/reproducibility_of_intention)
 * [Camera shake and the stream-bounce effect](https://www.djmannion.net/cam_shake)
 * [Presenting images on the web with a higher apparent bit-depth](https://www.djmannion.net/bit_depth)
