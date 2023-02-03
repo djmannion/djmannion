@@ -12,9 +12,9 @@ I am also a fan of [`veusz`](https://veusz.github.io/) for creating figures, [`p
 I am a long-time Linux user and like using simple interfaces.
 
 Personally, I enjoy [running](https://en-gb.smashrun.com/damienmannion) and usually get out for a run a few times a week.
-I&rsquo;ve run a few marathons in the past&nbsp;(slowly) but I&rsquo;m not currently training for anything in particular&mdash;mostly trying to improve my [parkrun](https://www.parkrun.com/)&nbsp;(5 km) [times](https://www.parkrun.com.au/results/athleteresultshistory/?athleteNumber=4072605).
 
 I occasionally write posts on various topics:
+* [Labelled multi-dimensional arrays for representing research data](https://www.djmannion.net/data_nd)
 * [Creating heatmap visualisations for posterior distributions](https://www.djmannion.net/heatmap)
 * [Extracting files from a remote zip archive](https://www.djmannion.net/partial_zip)
 * [Race report: Carcoar Cup half-marathon](https://www.djmannion.net/rr_carcoar)
