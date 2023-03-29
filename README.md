@@ -2,6 +2,7 @@
 
 I'm interested in science, research, education, and technology.
 
+I work as a Research Data Specialist in the [Melbourne Data Analytics Platform](https://mdap.unimelb.edu.au/) at the [University of Melbourne](https://www.unimelb.edu.au) in Australia.
 My background is in research in the area of perception (vision and hearing; [more information about my research](https://www.djmannion.net/pubs)) and in teaching perception and research skills.
 I have a particular interest in the development of computational skills in researchers, and I have created resources such as ["Programming for psychology in Python"](https://www.djmannion.net/psych_programming) and ["Fundamentals of data and coding for psychology"](https://webutils.psy.unsw.edu.au/internship_coding/site/).
 I also enjoy using the functionality of the modern web to create interactive instructional material, such as an [image Fourier analysis explorer](https://www.djmannion.net/img_freq_web_post/), a [simulator of visually-responsive neurons](https://www.djmannion.net/neural_sim/), and an [explorer for spectral distributions in a visual scene](https://webutils.psy.unsw.edu.au/psyc2071_2020/colour/cmp_spectral/colour_cmp_spectral.html).
@@ -14,6 +15,7 @@ I am a long-time Linux user and like using simple interfaces.
 Personally, I enjoy [running](https://en-gb.smashrun.com/damienmannion) and usually get out for a run a few times a week.
 
 I occasionally write posts on various topics:
+* [Race report: Orange Running Festival half-marathon](https://www.djmannion.net/rr_orange)
 * [Labelled multi-dimensional arrays for representing research data](https://www.djmannion.net/data_nd)
 * [Creating heatmap visualisations for posterior distributions](https://www.djmannion.net/heatmap)
 * [Extracting files from a remote zip archive](https://www.djmannion.net/partial_zip)
