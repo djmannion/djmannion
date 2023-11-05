@@ -15,6 +15,7 @@ I am a long-time Linux user and like using simple interfaces.
 Personally, I enjoy [running](https://en-gb.smashrun.com/damienmannion) and usually get out for a run a few times a week.
 
 I occasionally write posts on various topics:
+* [Using custom data types in Python: reflections on the use of type hints](https://www.djmannion.net/python_typing_ppant/)
 * [Race report: Orange Running Festival half-marathon](https://www.djmannion.net/rr_orange)
 * [Labelled multi-dimensional arrays for representing research data](https://www.djmannion.net/data_nd)
 * [Creating heatmap visualisations for posterior distributions](https://www.djmannion.net/heatmap)
