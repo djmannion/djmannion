@@ -7,6 +7,7 @@ My background is in research in the area of perception (vision and hearing; [mor
 Personally, I enjoy [running](https://www.strava.com/athletes/110970834) and usually get out for a run a few times a week.
 
 I occasionally write posts on various topics:
+* [On GenAI](https://www.djmannion.net/genai/)
 * [Python disrememberings](https://www.djmannion.net/python_disrememberings/)
 * [Using custom data types in Python: reflections on the use of type hints](https://www.djmannion.net/python_typing_ppant/)
 * [Race report: Orange Running Festival half-marathon](https://www.djmannion.net/rr_orange)
